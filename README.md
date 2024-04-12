@@ -16,7 +16,11 @@
 </a>
 
 <br/> 
-
+<a href="https://github.com/rezamovaheddi">
+    <img src="https://github-stats-alpha.vercel.app/api?username=rezamovaheddi&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
+</a>
+<br>
+</p>
 
 <!-- ![Github views](https://komarev.com/ghpvc/?username=amirali-pishdadi&color=green&style=for-the-badge) -->
 <!-- ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
