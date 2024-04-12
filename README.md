@@ -34,12 +34,12 @@
 
 ## Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-TailwindCss-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+<a href="https://github.com/matinsoleymni">
+    <p align="center">
+         <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,alpinejs,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8" />
+    </p>
+   
+</a>
 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
