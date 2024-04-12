@@ -16,7 +16,7 @@
 </a>
 
 <br/> 
-<a href="https://github.com/rezamovaheddi">
+<a align="center" href="https://github.com/rezamovaheddi">
     <img src="https://github-stats-alpha.vercel.app/api?username=rezamovaheddi&cc=22272e&tc=37BCF6&ic=AE87FF&bc=AE87FF">
 </a>
 <br>
