@@ -1,6 +1,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70006&random=false&width=435&lines=Hello+I+am+RezaMovahedi" alt="Typing SVG" /></a>
-</h1>
+
 <br/>
 <a href="https://github.com/rezamovaheddi">
     <img src="https://img.shields.io/badge/rezamovahedi-gray?style=flat-square">
@@ -40,6 +40,7 @@
     </p>
    
 </a>
+</h1>
 
 <!--
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
