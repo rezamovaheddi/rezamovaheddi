@@ -3,7 +3,7 @@
 </h1>
 <br/>
 <a href="https://github.com/rezamovaheddi">
-    <img src="https://img.shields.io/badge/rezamovahedi-green?style=flat-square">
+    <img src="https://img.shields.io/badge/rezamovahedi-gray?style=flat-square">
 </a> 
 <a href="https://t.me/rezamo666">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
