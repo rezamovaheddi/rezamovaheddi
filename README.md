@@ -1,27 +1,23 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70006&random=false&width=435&lines=Hello+I+am+RezaMovahedi" alt="Typing SVG" /></a>
 </h1>
-<a href="https://github.com/matinsoleymni">
+<a href="https://github.com/rezamovaheddi">
     <img src="https://img.shields.io/badge/matinsoleymni-red?style=flat-square">
 </a> 
-<a href="https://t.me/soleymnimatin">
+<a href="https://t.me/rezamo666">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
-<a href="https://www.linkedin.com/in/matinsoleymani">
+<a href="https://www.linkedin.com/in/Reza-Movahedi">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:matinsoleymni@gmail.com">
+<a href="mailto:rmwhdy8@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+
 <br/> 
 
 
 <!-- ![Github views](https://komarev.com/ghpvc/?username=amirali-pishdadi&color=green&style=for-the-badge) -->
-<br>
-<a href="https://www.linkedin.com/in/reza-movahedi-5328642a6/" height=25></a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-
-<a href="https://t.me/rezamo666"><img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" height=25></a>
-
 <!-- ![Message](https://img.shields.io/badge/Amirali-Pishdadi-blue)
 &nbsp;&nbsp;
 ![stars](https://img.shields.io/github/stars/amirali-pishdadi/amirali-pishdadi)
