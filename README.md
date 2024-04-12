@@ -32,8 +32,6 @@
 ![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
 ) -->
 
-## Technologies & Tools
-
 <a href="https://github.com/matinsoleymni">
     <p align="center">
          <img src="https://skillicons.dev/icons?i=figma,github,vscode,react,linkedin,git,js,linux,html,css,py,sass,tailwind,reactjs,&perline=8" />
