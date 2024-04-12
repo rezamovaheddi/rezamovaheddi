@@ -36,7 +36,7 @@
 
 <a href="https://github.com/matinsoleymni">
     <p align="center">
-         <img src="https://skillicons.dev/icons?i=xd,figma,github,vscode,linkedin,postman,git,alpinejs,vue,js,jquery,laravel,linux,md,nuxtjs,php,mysql,html,css,py,sass,tailwind,ts,solidity&perline=8" />
+         <img src="https://skillicons.dev/icons?i=figma,github,vscode,linkedin,git,js,laravel,linux,html,css,py,sass,tailwind,solidity&perline=8" />
     </p>
    
 </a>
