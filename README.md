@@ -1,8 +1,9 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70006&random=false&width=435&lines=Hello+I+am+RezaMovahedi" alt="Typing SVG" /></a>
 </h1>
+<br/>
 <a href="https://github.com/rezamovaheddi">
-    <img src="https://img.shields.io/badge/matinsoleymni-red?style=flat-square">
+    <img src="https://img.shields.io/badge/rezamovahedi-green?style=flat-square">
 </a> 
 <a href="https://t.me/rezamo666">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
