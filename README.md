@@ -1,6 +1,20 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70006&random=false&width=435&lines=Hello+I+am+RezaMovahedi" alt="Typing SVG" /></a>
 </h1>
+<a href="https://github.com/matinsoleymni">
+    <img src="https://img.shields.io/badge/matinsoleymni-red?style=flat-square">
+</a> 
+<a href="https://t.me/soleymnimatin">
+    <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
+</a> 
+<a href="https://www.linkedin.com/in/matinsoleymani">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:matinsoleymni@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
+<br/> 
+
 
 <!-- ![Github views](https://komarev.com/ghpvc/?username=amirali-pishdadi&color=green&style=for-the-badge) -->
 <br>
