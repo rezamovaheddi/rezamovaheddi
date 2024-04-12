@@ -7,7 +7,7 @@
 <a href="https://t.me/rezamo666">
     <img src="https://img.shields.io/badge/Channel-blue?style=flat-square&logo=telegram">
 </a> 
-<a href="https://www.linkedin.com/in/Reza-Movahedi">
+<a href="https://www.linkedin.com/in/reza-movahedi-5328642a6/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:rmwhdy8@gmail.com">
