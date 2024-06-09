@@ -31,10 +31,17 @@
 &nbsp;&nbsp;
 ![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
 ) -->
-<p>Backend Development</p>
+<p>Backend Development:</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+  </a>
+</p>
+
+<p>Frontend Development:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,tailwindcss,bootstrap," />
   </a>
 </p>
 
