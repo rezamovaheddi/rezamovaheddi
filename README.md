@@ -32,7 +32,7 @@
 ![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
 ) -->
 ## Backend Development
-[![My Skills](https://skillicons.dev/icons?i=python,djanfo,nodejs,exspress&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,djanfo,nodejs,exspressjs&theme=light)](https://skillicons.dev)
 
 </h1>
 
