@@ -34,14 +34,14 @@
 <p>Backend Development:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,mongodb,mysql" />
   </a>
 </p>
 
 <p>Frontend Development:</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,tailwindcss,bootstrap," />
+    <img src="https://skillicons.dev/icons?i=react,next,tailwindcss,bootstrap,html,css,npm," />
   </a>
 </p>
 
