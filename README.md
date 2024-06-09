@@ -31,7 +31,8 @@
 &nbsp;&nbsp;
 ![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
 ) -->
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+## Backend Development
+[![My Skills](https://skillicons.dev/icons?i=python,djanfo,nodejs,exspress&theme=light)](https://skillicons.dev)
 
 </h1>
 
