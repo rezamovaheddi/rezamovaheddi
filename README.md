@@ -39,7 +39,7 @@
 </p>
 
 <p>Frontend Development:</p>
-<p align="center">
+<p align="justify">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,next,tailwindcss,bootstrap,html,css,npm," />
   </a>
