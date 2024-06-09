@@ -34,7 +34,7 @@
 <p>Backend Development</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=puyhon,django,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
   </a>
 </p>
 
