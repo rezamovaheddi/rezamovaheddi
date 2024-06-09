@@ -31,6 +31,13 @@
 &nbsp;&nbsp;
 ![watchers](https://img.shields.io/github/watchers/amirali-pishdadi/amirali-pishdadi
 ) -->
+## languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+  </a>
+</p>
+
 <p>Backend Development:</p>
 <p align="center">
   <a href="https://skillicons.dev">
