@@ -18,6 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rezamovaheddi&icon=6&color=13)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🌱 I’m currently learning new Things<br>👦🏻 I'm 17 years old<br>❤️ I like new challenge and solving problem<br>🧑‍💻 I always like new technologies
+🌱 I’m currently learning new Things<br>👦🏻 I'm 18 years old<br>❤️ I like new challenge and solving problem<br>🧑‍💻 I always like new technologies
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
