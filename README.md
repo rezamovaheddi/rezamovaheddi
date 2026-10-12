@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium%20Skin%20Tone.png" alt="Waving Hand Medium Skin Tone" width="35" height="35" /> I'm Reza Movahedi </h1>
 
-<h3 align="center">A junior Full stack developer</h3>
+<h3 align="center">A ّ Front-End developer</h3>
 
 <div align="center">
  <h3 align="center">contact me</h3>
